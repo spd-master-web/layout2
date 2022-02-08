@@ -1,0 +1,35 @@
+container{
+  display: block;
+  margin: 5%;
+  width: auto;
+  height: auto;
+  clear:both;
+}
+.one{
+display:block;
+margin: 5%;
+width: 40%;
+height: auto;
+float: left;
+}
+.two{
+  display:block;
+  margin:5%;
+  width: 40%;
+  height: auto;
+  float: right;
+}
+.text2{
+  color: blueviolet;
+  margin-bottom: 10%;
+  margin-top: 5%;
+
+
+}
+
+.text1{
+color: yellowgreen;
+margin-bottom: 10%;
+margin-top: 5%;
+
+}
